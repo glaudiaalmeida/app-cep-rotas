@@ -1,0 +1,21 @@
+{
+    "short_name": "CEP - Rotas",
+    "name": "Rotas - CEP Glaudia Almeida",
+    "icons": [
+      {
+        "src": "assets/pwa-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "assets/pwa-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#F2C917",
+    "theme_color": "#F2C917",
+    "description": "Aplicativo de ordenação e consulta de CEPs"
+  }
